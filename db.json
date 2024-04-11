@@ -1,0 +1,115 @@
+{
+  "tours": [
+    {
+      "id": "1",
+      "nombre": "Tour por las Iglesias",
+      "descripcion": "Explora las iglesias históricas más emblemáticas",
+      "tipo": "Exploración",
+      "ciudad": "Cuenca",
+      "fechaInicio": "10/04/2024",
+      "fechaFin": "12/04/2024",
+      "duracion": "2 días",
+      "maxParticipantes": 5,
+      "imagen": "https://i.pinimg.com/736x/c0/c9/f2/c0c9f2827d064ccf0849e9d624b01411.jpg",
+      "precio": 50
+    },
+    {
+      "id": "2",
+      "nombre": "Tour Quilotoa",
+      "descripcion": "Explora la maravillosa laguna del Quilotoa",
+      "tipo": "Volcán",
+      "ciudad": "Latacunga",
+      "fechaInicio": "10/04/2024",
+      "fechaFin": "12/04/2024",
+      "duracion": "2 días",
+      "maxParticipantes": 8,
+      "imagen": "https://i.ytimg.com/vi/OaOQ_uO2VNE/maxresdefault.jpg",
+      "precio": 50
+    },
+    {
+      "id": "e081498b-356e-4f93-938d-dd972882e28b",
+      "nombre": "Tour Amazonia",
+      "descripcion": "Explora la maravillosa Amazonia",
+      "tipo": "Turismo",
+      "ciudad": "Orellana",
+      "fechaInicio": "10/04/2024",
+      "fechaFin": "15/04/2024",
+      "duracion": "5 días",
+      "maxParticipantes": 5,
+      "imagen": "https://www.orellana.gob.ec/images/lugaresturisticos/malocas.jpg",
+      "precio": 95
+    },
+    {
+      "id": "012bda92-1927-4f1a-98ce-d663cb5e045b",
+      "nombre": "Tour Baños",
+      "descripcion": "Explora la maravillosa ciudad de Baños",
+      "tipo": "Turismo",
+      "ciudad": "Tungurahua",
+      "fechaInicio": "10/04/2024",
+      "fechaFin": "15/04/2024",
+      "duracion": "5 días",
+      "maxParticipantes": "5",
+      "precio": "80",
+      "imagen": "https://res.cloudinary.com/dmsfsi4e7/image/upload/v1712864281/tours/ksyns4jg6zw7qmrw1e1c.jpg",
+      "public_id": "tours/ksyns4jg6zw7qmrw1e1c"
+    },
+    {
+      "id": "83f40741-7c67-4570-9d26-dfb55e9d60ad",
+      "nombre": "Tour Baños",
+      "descripcion": "Explora la maravillosa ciudad de Baños",
+      "tipo": "Turismo",
+      "ciudad": "Tungurahua",
+      "fechaInicio": "10/04/2024",
+      "fechaFin": "15/04/2024",
+      "duracion": "5 días",
+      "maxParticipantes": "5",
+      "precio": "80",
+      "imagen": "https://res.cloudinary.com/dmsfsi4e7/image/upload/v1712864348/tours/avowz4gars262ziwjfb0.jpg",
+      "public_id": "tours/avowz4gars262ziwjfb0"
+    },
+    {
+      "id": "df0b8bfe-c810-4dc0-ac6a-ec24a4697937",
+      "nombre": "Tour Baños",
+      "descripcion": "Explora la maravillosa ciudad de Baños",
+      "tipo": "Turismo",
+      "ciudad": "Tungurahua",
+      "fechaInicio": "10/04/2024",
+      "fechaFin": "15/04/2024",
+      "duracion": "5 días",
+      "maxParticipantes": "5",
+      "precio": "80",
+      "imagen": "https://res.cloudinary.com/dmsfsi4e7/image/upload/v1712864802/tours/ux3rwvkwgheut6l84s8q.jpg",
+      "public_id": "tours/ux3rwvkwgheut6l84s8q"
+    },
+    {
+      "id": "e09608cd-6968-4c34-b327-a6edbf996bd3",
+      "nombre": "Tour Baños",
+      "descripcion": "Explora la maravillosa ciudad de Baños",
+      "tipo": "Turismo",
+      "ciudad": "Tungurahua",
+      "fechaInicio": "10/04/2024",
+      "fechaFin": "15/04/2024",
+      "duracion": "5 días",
+      "maxParticipantes": "5",
+      "precio": "80",
+      "imagen": "https://res.cloudinary.com/dmsfsi4e7/image/upload/v1712865486/tours/borbc49kqt0nudfjjup1.jpg",
+      "public_id": "tours/borbc49kqt0nudfjjup1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Byron",
+      "username": "byron",
+      "email": "byron@gmail.com",
+      "password": "sistemas"
+    },
+    {
+      "id": "f29b6861-72a5-4596-a877-fa2f74b5ec33",
+      "password": "$2b$10$KoLZvZKk7hgiveP3GoPlCONcPTn83g63KKeJSzxjBIF0efsztsI5u",
+      "name": "Joe",
+      "username": "joe",
+      "email": "joe@gmail.com"
+    }
+  ]
+}
